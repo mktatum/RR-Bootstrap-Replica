@@ -1,9 +1,15 @@
 import './App.css';
+import Navbar from "react-bootstrap/Navbar";
+import TopBar from "./components/TopBar";
+import Banner from "./components/Banner";
+import StoreListing from "./components/StoreListing";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <TopBar />
+      <Banner />
+      <StoreListing />
     </div>
   );
 }

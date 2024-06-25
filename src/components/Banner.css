@@ -1,0 +1,9 @@
+.homepageBanner {
+    background-image: url("../assets/instacart-fruit-background.svg");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-color: #b0fcdd;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+}
